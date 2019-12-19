@@ -7,7 +7,7 @@ The open source operation platform : CMDB, project deploy, Crontab, DevOps , Mon
 centos 7.2(1511) django 1.9.8 python 2.7
 
 服务端安装
-git clone https://github.com/
+git clone  https://github.com/Blanchefree/kubernetes.git
 
 执行安装脚本
 
@@ -33,6 +33,7 @@ http://your_server_ip
 请转到：使用说明
 
 dashboard
+
 
 安全
 建议不要将程序启动在有公网可以直接访问的设备上，如果需要请使用VPN。
