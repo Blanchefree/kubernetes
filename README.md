@@ -1,5 +1,6 @@
 
-The open source operation platform : CMDB, project deploy, Crontab, DevOps , Monitor. 
+The open source operation platform : CMDB, project deploy, Crontab, DevOps , Monitor.
+ 
 开源DevOps平台：资产管理、定时任务、项目部署、自动运维、系统监控
 
 开发环境
@@ -25,6 +26,7 @@ step2:
 
 访问
 http://your_server_ip
+
 使用自己在安装过程中创建的super admin用户名密码
 
 使用说明
